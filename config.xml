@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="fr.univ_paris8.league_battles" version="1.0">
-    <name>League Battles</name>
+    <name>League Test</name>
     <description>
-        Création de tournois 1 vs 1
+      tournois 1 vs 1
     </description>
     <author href="http://www.univ-pairs8.fr" email="cedric.leduc@icloud.fr">
         Cédric Leduc
