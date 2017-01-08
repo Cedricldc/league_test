@@ -1,0 +1,3 @@
+$.ajax({
+  url:"index.php"
+})
